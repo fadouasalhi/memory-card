@@ -1,0 +1,10 @@
+
+.gameboard {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 5px;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 700px;
+   
+}
